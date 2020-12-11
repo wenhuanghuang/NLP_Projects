@@ -9,12 +9,12 @@ This corpus contains:
 More info in README file under data folders. 
 
 
-The task is to implement perceptron algorithmn with python to classify hotel reviews as truthful or deceptive, positive or negative. 
+The task is to implement naive bayes with python to classify hotel reviews as truthful or deceptive, positive or negative. 
 
 Results: 
 
 <p>
-  <img src="https://github.com/wenhuanghuang/NLP_Projects/blob/main/SentimentAnalysisHotelReviews/Results.png" width="300">
+  <img src="https://github.com/wenhuanghuang/NLP_Projects/blob/main/SentimentAnalysisHotelReviews/NaiveBayerApproach/Results.png" width="300">
 </p>
 
 This is an assignment from USC CSCI544 Natural Language Processing 
