@@ -11,7 +11,7 @@ More info in README file under data folders.
 
 ### Task: 
 The task is to implement perceptron algorithmn with python to classify hotel reviews as truthful or deceptive, positive or negative. 
-Another approach is [Naive Bayes](https://github.com/wenhuanghuang/NLP_Projects/tree/main/SentimentAnalysisHotelReviews/NaiveBayesApproach) 
+Another approach is Naive Bayes, see more details in `NaiveBayerApproach` folder
 
 ### File structure: 
 * perceplearn.py -- learn features from the data
