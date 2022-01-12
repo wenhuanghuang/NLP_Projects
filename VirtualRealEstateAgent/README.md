@@ -4,4 +4,4 @@ I propose [a virtual real estate agent](https://github.com/wenhuanghuang/NLP_Pro
 
 More info in the pdf file. 
 
-This is an assignment of USC CSCI544 NLP course. 
+<object data="/virtualagent.pdf" type="application/pdf" width="100%"></object>
